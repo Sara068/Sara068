@@ -17,4 +17,4 @@ My research focuses on the **safety** and **explainability** of deep neural netw
 I am currently working on projects related to deep learning, focusing on the safety and explainability of AI models.
 
 ## 📫 Get in Touch
-- Email: zeinab.dehghani@example.com
+- Email: zeinab.dehghani@gmail.com
