@@ -18,3 +18,4 @@ I am currently working on projects related to deep learning, focusing on the saf
 
 ## 📫 Get in Touch
 - Email: zeinab.dehghani068@gmail.com
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sara-dehghani-9a697a313/)
